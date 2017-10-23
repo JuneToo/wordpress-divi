@@ -1,0 +1,36 @@
+/*
+Theme Name:     Divi-child
+Theme URI:      //blog.bbasse.me
+Description:    Child theme for the Divi
+Author:         juneto
+Author URI:     //www.blog.bbasse.me/about-me/
+Template:       Divi
+Version:        20171023
+*/
+
+/*------------------------------------------------*/
+/*--------------[Theme Color Scheme]--------------*/
+/*------------------------------------------------*/
+
+/* BASIC Color
+
+PANTONE P 179-15 C) : #363434
+PANTONE Uncoated Neutral Black U : #4c4845
+Pantone Cool Gray 2 CP : #e4e5e3
+PANTONE Medium Blue U : #0085c8
+PANTONE 2226 U :#33cccc
+
+*/
+
+/*------------------------------------------------*/
+/*-----------------[BASIC STYLES]-----------------*/
+/*------------------------------------------------*/
+
+#main-content article .altframe p { text-align: center; }
+
+#main-content article h2 { border-left: 0.2em solid #0085c8;
+    margin: 2rem 0rem 2rem 0rem; padding: 0.15rem 0rem 0.15rem 0.3rem; }
+
+#main-content article dl { margin-left: 0px; }
+
+#main-content article dd { display: list-item; list-style-type: disc; margin-left: 2rem; }
